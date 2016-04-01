@@ -9,13 +9,17 @@ Pour cela, cliquez sur le bouton "Fork" en haut à droite de votre écran.
 ## Créer un dépôt de fiches, le choix stratégique
 
 **Q:** J'ai une dizaine de fiches de l'animation. Je suis un expert dans l'animation. Puis-je déposer mes fiches sur multiBàO? 
-**R:** : Tout dépend comment vous le faites. 
+**R:** : C'est un choix: 
 
-Lié à mon compte personnel    |   Liée à une organisation
---------|--------|------
-Halo   |   Je suis seul sur mon dépôt   |   On est plusieurs sur le dépôt
-Halo   |   Martin  |   47
-Halo   |   Martin  |   32
+Le dépôt est sur mon compte perso   |   Le dépôt est sur une organisation
+--------|------
+Je suis seul sur mon dépôt   |   On est plusieurs sur un dépôt commun
+Le propriétaire du dépôt est mis en avant |   Le contributeur au dépôt est mis en avant
+Je dois tenir à jour les fiches   |   On est plusieurs à entretenir les fiches
+J'écris des ressources tout seul  |   A plusieurs, on se complète
+Je gouverne   |   Je choisis mes pairs et collaborateurs
+
+
 
 
 
