@@ -4,14 +4,14 @@
 Dossier contenant des explications et des standards de rédaction permettant à des utilisateurs d'être accompagnés et guidés dans leurs contributions.
 
 **Objectif**
-
 Les contributeurs MultiBàO réutilisent ces standars de rédactions par fork pour faciliter leur mise en ressource de leur documentation. 
-Les utilisateurs s'approprient  le dépot de base puis le modifie selon leurs usages et améliorent la démarche globale.
+Les utilisateurs s'approprient  le dépot de base puis le modifient selon leurs usages et améliorent la démarche globale.
 -------------------
 
-_Un README.md est un fichier en langage [markdown](https://fr.wikipedia.org/wiki/Markdown) (.md) à créer sur github à chaque dépot (repository) fait par un utilisateur. Nous vous conseillons de cocher la case "Initialize this repository with a README" lors de vos repository_ 
+------------------- 
 
--------------------   
+_Un README.md est un fichier en langage [markdown](https://fr.wikipedia.org/wiki/Markdown) (.md) à créer sur github à chaque dépot (repository) fait par un utilisateur. Nous vous conseillons de cocher la case "Initialize this repository with a README" lors de vos repository_ 
+  
 _Il est de la responsbailité du dépositaire et des contributeurs du dépot de rédiger ce document "me lire" (Readme)._
 
 _ Un readme c'est un manuel d'utilisation, ou encore mode d'emploi, notice ou règle du jeu dans le cas d'un jeu, est un ouvrage devant permettre l'utilisation d'un produit : objet manufacturé (machine, outil, équipement de protection, …) ou logiciel_
