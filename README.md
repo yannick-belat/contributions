@@ -22,8 +22,8 @@ J'écris des ressources tout seul  |   A plusieurs, on se complète
 Je présente  |   On présente et on apprend des regards croisés
 Pour lancer un dépôt, je suis seul   |   Pour lancer un dépôt, on est au moins 2
 
-**Q**: n'y a t-il pas de possibilité de contributeurs externe à un dépôt déposé sur mon espace personnel?
-**R**: si. Tout comme si vous êtes en organisation. Limiter les contributeurs ayant une modification totale sur votre dépôt s'avérerait peu judicieux si les contributions qu'ils apportaient ne vous sembleraient pas de qualité. A ce moment là pourquoi ne pas choisir des pairs qui vont collaborer avec vous sur des ressources? 
+**Q**: il y a pourtant des possibilités pour un contributeur externe de contribuer à mon dépôt?
+**R**: Oui. Tout comme si vous êtes en organisation. Limiter les contributeurs ayant une modification totale sur votre dépôt s'avérerait peu judicieux si les contributions qu'ils apportaient ne vous sembleraient pas de qualité. A ce moment là pourquoi ne pas choisir des pairs qui vont collaborer avec vous sur des ressources? 
 
 **Q**: comment définissez vous une contribution de qualité: 
 **R** Du point de vue du lecteur externe elle est: 
