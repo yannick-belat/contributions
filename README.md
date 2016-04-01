@@ -26,6 +26,24 @@ Le manuel d'utilisation doit être
 -------------------    
     
 ## Pourquoi cette démarche?
+Nous attachons de l'importance à l'amélioration de l'expérience utilisateur sur multibao.org.
+
+Nous cherchons à fournir dans de bonnes conditions les possibilités de compréhension, d'utilisation et de réutilisation, d'appropriation des ressources à chaque utlisateur.
+
+Nous vissons à construire un dossier Guide Utilisateur dans lequel chaque fiche peut être forkée par l'utisateur dans le but de faciliter les usages de multibao et renforcer les possibilités d'apprentissage par l'utilisteur.
+
+
+--------------
+_Un fork, en français fourche ou encore embranchement, est un nouveau logiciel ou fichier créé à partir du code source d'un logiciel ou fichier existant._
+
+_Cela suppose que les droits accordés par les auteurs le permettent : ils doivent autoriser l'utilisation, la modification et la redistribution du code source._ 
+
+_C'est pour cette raison que les forks se produisent facilement dans le domaine des logiciels libres._
+
+_**Exemple:**_
+_cette fiche "Lisez-moi" doit pouvoir être de qualité et de cohérence suffisante pour donner envie d'être forkée par l'utilisateur et avoir une utilité dans la facilitation de son expérience multibao._
+
+-----------------
 
 ## D'où vient cette cette démarche?
 
@@ -42,4 +60,3 @@ Tous trois profitent de ce regroupement physique pour sur l'expérience utilisat
 ## Contenu du Guide Utilisteur
 
 ## Licence sur ce dépot Guide Utilisateur
-
