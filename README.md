@@ -1,9 +1,25 @@
-# Lisez-moi
+# Dupliquez moi pour faciliter votre première création de dépôt
+
 [Forker cette fiche](https://github.com/multibao/forkablerepos#fork-destination-box)
 
-Dossier contenant des explications et des standards de rédaction permettant à des utilisateurs d'être accompagnés et guidés dans leurs contributions.
+Ce dépôt de fiches est là pour être "forké", c'est à dire dupliqué pour que vous puissiez avoir un dépôt tout prêt, avec tout ce qu'il faut dedans, pour pouvoir contribuer à multiBàO. 
 
-**Objectif**
+Pour cela, cliquez sur le bouton "Fork" en haut à droite de votre écran:
+![Fork](https://raw.githubusercontent.com/multibao/guideutilisateur/master/media/Scrab.png)
+
+
+
+
+
+
+> Dossier contenant des explications et des standards de rédaction permettant à des utilisateurs d'être accompagnés et guidés dans leurs contributions.
+
+## Objectif
+
+
+
+
+
 
 Les contributeurs MultiBàO réutilisent ces standars de rédactions par fork pour faciliter leur mise en ressource de leur documentation. 
 Les utilisateurs s'approprient  le dépot de base puis le modifient selon leurs usages et améliorent la démarche globale.
