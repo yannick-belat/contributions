@@ -1,9 +1,11 @@
 # forkablerepos
-Dossier contenant des templates, des explications et des standards permettant à des utilisateurs d'être accompagnés et guidés dans leurs contributions
+[Forker cette fiche](https://github.com/multibao/forkablerepos#fork-destination-box)
+
+Depot contenant des templates, des explications et des standards permettant à des utilisateurs d'être accompagnés et guidés dans leurs contributions
 
 _Un README.md est un fichier en langage [markdown](https://fr.wikipedia.org/wiki/Markdown) (.md) à créer sur github à chaque dépot (repository) fait par un utilisateur. Nous vous conseillons de cocher la case "Initialize this repository with a README" lors de vos repository_ 
 
-![]({{site.baseurl}}//readme%20Multibao.PNG)
+![](readme%20Multibao.PNG)
 
 _Il est de la responsbailité du dépositaire et des contributeurs du dépot de rédiger ce document "me lire" (Readme)._
 
