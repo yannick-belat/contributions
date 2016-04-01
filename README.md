@@ -15,9 +15,9 @@ Pour cela, cliquez sur le bouton "Fork" en haut à droite de votre écran.
 
 Lié à mon compte personnel    |   Liée à une organisation
 --------|------
-Je suis seul sur mon dépôt   |   On est plusieurs sur le dépôt
-  |   47
-Martin  |   32
+Halo   |   Je suis seul sur mon dépôt   |   On est plusieurs sur le dépôt
+Halo   |   Martin  |   47
+Halo   |   Martin  |   32
 
 
 
