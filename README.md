@@ -56,7 +56,7 @@ Stéphane Langlois travaillant, durant cette semaine d'avril 2016, sur le dével
 Thomas Wolff travaillant sur les dossiers de subventions, les ressources en ligne de multibao, les métadonnnées des fiches.
 Xavier Coadic travaillant sur les dossiers de subventions, les ressources en ligne de multibao, la documentation.
 
-Tous trois profitent de ce regroupement physique pour sur l'expérience utilisateur, les possibilités de multibao.org, les critères de qualité des fiches sur multibao.org, la cohérence d'un guide utilisteur dans en dépot.
+Tous trois profitent de ce regroupement physique pour échanger sur l'expérience utilisateur, les possibilités de multibao.org, les critères de qualité des fiches sur multibao.org, la cohérence d'un guide utilisteur dans en dépot.
 
 ## Contenu du Guide Utilisteur
 
