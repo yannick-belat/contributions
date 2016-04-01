@@ -60,4 +60,7 @@ Tous trois profitent de ce regroupement physique pour échanger sur l'expérienc
 
 ## Contenu du Guide Utilisteur
 
+### Sommaire
+### Vision
+
 ## Licence sur ce dépot Guide Utilisateur
