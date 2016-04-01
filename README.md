@@ -2,12 +2,9 @@
 
 [![Forker ce dépot](https://raw.githubusercontent.com/multibao/guideutilisateur/master/media/Scrab.png)](https://github.com/multibao/guideutilisateur#fork-destination-box)
 
-[Forker cette fiche](https://github.com/multibao/forkablerepos#fork-destination-box)
-
 Ce dépôt de fiches est là pour être "forké", c'est à dire dupliqué pour que vous puissiez avoir un dépôt tout prêt, avec tout ce qu'il faut dedans, pour pouvoir contribuer à multiBàO. 
 
-Pour cela, cliquez sur le bouton "Fork" en haut à droite de votre écran:
-![Forker ce dépot](https://raw.githubusercontent.com/multibao/guideutilisateur/master/media/Scrab.png)
+Pour cela, cliquez sur le bouton "Fork" en haut à droite de votre écran.
 
 ## multiBàO, ou l'opportunité de faire vivre vos ressources à plusieurs
 
@@ -15,8 +12,15 @@ Pour cela, cliquez sur le bouton "Fork" en haut à droite de votre écran:
 
 **Q:** J'ai une dizaine de fiches de l'animation. Je suis un expert dans l'animation. Puis-je déposer mes fiches sur multiBàO?
 **R:**multiBàO est conçu pour faire vivre des ressources. Nous vous invitons à considérer le point suivant:
-* si vous créez un dépôt de vos fiches dans votre **section personnelle**, le dépôt de fiches sera lié à votre nom personnel. Les contributeurs les associeront à vous. Ce ne sont pas des fiches communes. La volonté des contributeurs de contribuer à vos ressources sera limité. 
-* si vous créez un dépôt de vos fiches dans une **organisation**, le dépôt de fiches deviendra une histoire collective si des contributeurs se sentent concernés par la qualité des ressources. Si vous créez une organisation, vous pourrez choisir vos collaborateurs. Pourquoi ne pas vous lancer dans cette aventure entre pairs ou entre copains? 
+
+Nom     |   Age
+--------|------
+Julie   |   29
+Lionel  |   47
+Martin  |   32
+
+
+
 
 
 
