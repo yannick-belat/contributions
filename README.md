@@ -4,6 +4,7 @@
 Dossier contenant des explications et des standards de rédaction permettant à des utilisateurs d'être accompagnés et guidés dans leurs contributions.
 
 **Objectif**
+
 Les contributeurs MultiBàO réutilisent ces standars de rédactions par fork pour faciliter leur mise en ressource de leur documentation. 
 Les utilisateurs s'approprient  le dépot de base puis le modifient selon leurs usages et améliorent la démarche globale.
 -------------------
