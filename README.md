@@ -1,4 +1,4 @@
-# Guide Utilisateur
+# Lisez-moi
 [Forker cette fiche](https://github.com/multibao/forkablerepos#fork-destination-box)
 
 Dossier contenant des explications et des standards de rédaction permettant à des utilisateurs d'être accompagnés et guidés dans leurs contributions.
