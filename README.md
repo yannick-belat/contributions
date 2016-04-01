@@ -6,17 +6,17 @@ Ce dépôt de fiches est là pour être "forké", c'est à dire dupliqué pour q
 
 Pour cela, cliquez sur le bouton "Fork" en haut à droite de votre écran.
 
-## multiBàO, ou l'opportunité de faire vivre vos ressources à plusieurs
+## Créer un dépôt de fiches, le choix stratégique
 
 > une histoire de gouvernance et de vie des fiches
 
 **Q:** J'ai une dizaine de fiches de l'animation. Je suis un expert dans l'animation. Puis-je déposer mes fiches sur multiBàO?
-**R:**multiBàO est conçu pour faire vivre des ressources. Nous vous invitons à considérer le point suivant:
+**R:** :
 
-Nom     |   Age
+Lié à mon compte personnel    |   Liée à une organisation
 --------|------
-Julie   |   29
-Lionel  |   47
+Je suis seul sur mon dépôt   |   On est plusieurs sur le dépôt
+  |   47
 Martin  |   32
 
 
