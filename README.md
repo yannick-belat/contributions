@@ -8,13 +8,11 @@ Pour cela, cliquez sur le bouton "Fork" en haut à droite de votre écran.
 
 ## Créer un dépôt de fiches, le choix stratégique
 
-> une histoire de gouvernance et de vie des fiches
-
-**Q:** J'ai une dizaine de fiches de l'animation. Je suis un expert dans l'animation. Puis-je déposer mes fiches sur multiBàO?
-**R:** :
+**Q:** J'ai une dizaine de fiches de l'animation. Je suis un expert dans l'animation. Puis-je déposer mes fiches sur multiBàO? 
+**R:** : Tout dépend comment vous le faites. 
 
 Lié à mon compte personnel    |   Liée à une organisation
---------|------
+--------|--------|------
 Halo   |   Je suis seul sur mon dépôt   |   On est plusieurs sur le dépôt
 Halo   |   Martin  |   47
 Halo   |   Martin  |   32
