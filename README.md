@@ -1,6 +1,6 @@
 # Dupliquez moi pour faciliter votre première création de dépôt
 
-[![Forker ce dépot](https://raw.githubusercontent.com/multibao/guideutilisateur/master/media/Scrab.png)](https://github.com/multibao/forkablerepos#fork-destination-box)
+[![Forker ce dépot](https://raw.githubusercontent.com/multibao/guideutilisateur/master/media/Scrab.png)](https://github.com/multibao/guideutilisateur#fork-destination-box)
 
 [Forker cette fiche](https://github.com/multibao/forkablerepos#fork-destination-box)
 
