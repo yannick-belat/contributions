@@ -1,24 +1,29 @@
-# Dupliquez moi pour faciliter votre première création de dépôt
+# Dupliquez ce modèle de dépôt de fiches pour faciliter votre première création de dépôt
 
 [![Forker ce dépot](https://raw.githubusercontent.com/multibao/guideutilisateur/master/media/Scrab.png)](https://github.com/multibao/guideutilisateur#fork-destination-box)
 
-Ce dépôt de fiches est là pour être "forké", c'est à dire dupliqué pour que vous puissiez avoir un dépôt tout prêt, avec tout ce qu'il faut dedans, pour pouvoir contribuer à multiBàO. 
+> Bienvenue dans l'aventure multiBàO. Forker, ça fait froid au dos? ;) Cliquez sur le bouton Fork en haut à droite de votre écran et vous partirez avec un modèles de fiches tout beau, avec tout ce qu'il faut devans. 
 
-Pour cela, cliquez sur le bouton "Fork" en haut à droite de votre écran.
+## Créer un dépôt de fiches, une expérience humaine avant d'être technique
 
-## Créer un dépôt de fiches, le choix stratégique
+Pour pouvoir utiliser les fonctionnalités de la multi Boîte à Outils pour son dépôt de fiches, RAS.
+Pour pouvoir faire apparaître un dépôt de fiches sur multibao.org, il y a deux invitations: 
+* enrichir ses droits d'auteurs sous une licence libre. Si vous avez fait cela, vous autorisez - sous les conditions que vous avez spécifié - que vos ressources puissent être réutilisées et puissent vivre. 
+* mettre en commun ce qui vous semble être de qualité. Le fait que vous publiez une ressource signifie pour nous que vous supposez qu'elle a de la ressource pour les autres et qu'il pourrait s'agir d'une ressource à faire vivre, entretenir. 
 
-**Q:** J'ai une dizaine de fiches de l'animation. Je suis un expert dans l'animation. Puis-je déposer mes fiches sur multiBàO? 
-**R:** : C'est un choix: 
+### Je suis prêt, où est ce que je "forke" mon dépôt de fiches? 
 
-Le dépôt est sur mon compte perso   |   Le dépôt est sur une organisation
+Je le mets sur mon compte perso   |   Je rejoins ou je créé une organisation
 --------|------
 Je suis seul sur mon dépôt   |   On est plusieurs sur un dépôt commun
 Le propriétaire du dépôt est mis en avant |   Le contributeur au dépôt est mis en avant
-Je dois tenir à jour les fiches   |   On est plusieurs à entretenir les fiches
+J'entretiens seul les fiches   |   On est plusieurs à entretenir les fiches
 J'écris des ressources tout seul  |   A plusieurs, on se complète
+Je présente  |   On présente et on apprend des regards croisés
 Je gouverne   |   Je choisis mes pairs et collaborateurs
+Pour me lancer, je suis seul   |   Pour me lancer, on est au moins 2
 
+Sans parler pour le lecteur, d'après vous quelle est la fiche la plus compréhensible: une fiche écrite à deux mains publiée d'un coup, ou une fiche co-écrite à huit mains avec 12 mises à jour depuis sa création. 
 
 
 
