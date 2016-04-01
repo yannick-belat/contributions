@@ -20,7 +20,7 @@ Le propriétaire du dépôt est mis en avant |   Le contributeur au dépôt est 
 J'entretiens seul les fiches   |   On est plusieurs à entretenir les fiches
 J'écris des ressources tout seul  |   A plusieurs, on se complète
 Je présente  |   On présente et on apprend des regards croisés
-Je gouverne   |   Je choisis mes pairs et collaborateurs
+Il peut y avoir des collaborateurs externes, je gouverne   |   Je collabore avec mes pairs
 Pour me lancer, je suis seul   |   Pour me lancer, on est au moins 2
 
 Sans parler pour le lecteur, d'après vous quelle est la fiche la plus compréhensible: une fiche écrite à deux mains publiée d'un coup, ou une fiche co-écrite à huit mains avec 12 mises à jour depuis sa création. 
