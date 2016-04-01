@@ -20,10 +20,25 @@ Le propriétaire du dépôt est mis en avant |   Le contributeur au dépôt est 
 J'entretiens seul les fiches   |   On est plusieurs à entretenir les fiches
 J'écris des ressources tout seul  |   A plusieurs, on se complète
 Je présente  |   On présente et on apprend des regards croisés
-Il peut y avoir des collaborateurs externes, je gouverne   |   Je collabore avec mes pairs
-Pour me lancer, je suis seul   |   Pour me lancer, on est au moins 2
+Pour lancer un dépôt, je suis seul   |   Pour lancer un dépôt, on est au moins 2
 
-Sans parler pour le lecteur, d'après vous quelle est la fiche la plus compréhensible: une fiche écrite à deux mains publiée d'un coup, ou une fiche co-écrite à huit mains avec 12 mises à jour depuis sa création. 
+**Q**: n'y a t-il pas de possibilité de contributeurs externe à un dépôt déposé sur mon espace personnel?
+**R**: si. Tout comme si vous êtes en organisation. Limiter les contributeurs ayant une modification totale sur votre dépôt s'avérerait peu judicieux si les contributions qu'ils apportaient ne vous sembleraient pas de qualité. A ce moment là pourquoi ne pas choisir des pairs qui vont collaborer avec vous sur des ressources? 
+
+**Q**: comment définissez vous une contribution de qualité: 
+**R** Du point de vue du lecteur externe elle est: 
+* utile: il peut s'en servir, au minima pour pouvoir inspirer ses pratiques
+* compréhensible: il arrive à comprendre ce qui est dit dans la fiche
+* enrichissable: elle n'est pas inerte et "figée" dans le marbre
+* diffusable
+
+
+
+
+
+Il peut y avoir des collaborateurs externes, je gouverne   |   Je collabore avec mes pairs
+
+
 
 
 
