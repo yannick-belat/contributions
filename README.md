@@ -39,7 +39,7 @@ _Un fork, en français fourche ou encore embranchement, est un nouveau logiciel 
 
 _Cela suppose que les droits accordés par les auteurs le permettent : ils doivent autoriser l'utilisation, la modification et la redistribution du code source._ 
 
-_C'est pour cette raison que les forks se produisent facilement dans le domaine des logiciels libres._
+_Pour cette raison que les forks se produisent sainement dans le domaine de l'open source._
 
 _**Exemple:**_
 _cette fiche "Lisez-moi" doit pouvoir être de qualité et de cohérence suffisante pour donner envie d'être forkée par l'utilisateur et avoir une utilité dans la facilitation de son expérience multibao._
