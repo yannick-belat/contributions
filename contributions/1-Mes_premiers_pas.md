@@ -3,8 +3,9 @@
 ## Je ne suis pas seul 
 
 Ici, vous n'êtes pas seuls.
-A minima vous êtes 2 contributeurs à votre dépôt.  
-Si vous rencontrez une difficulté, des contributeurs sont à votre disposition pour vous permettre de sortir de l'impasse et de comprendre pourquoi vous y étiez. 
+A minima vous êtes au moins 2 contributeurs à votre dépôt.
+Des contributeurs habitués - qui ont sûrement déjà rencontré le problème que vous rencontrez - sont joignables. 
+En attendant qu'il y ait un espace de discussion spécialisés sur multiBàO, vous pouvez:
 * écrire un mail à [Thomas](mailto:thomas.wolff@cpcoop.fr) ou un sms (06-42-45-97-81)
 * si un échange ne suffit pas, on programmera une visioconférence où l'on réalisera ensemble la solution
 
