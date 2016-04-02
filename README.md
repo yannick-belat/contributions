@@ -2,7 +2,16 @@
 
 [![Forker ce dépot](https://raw.githubusercontent.com/multibao/guideutilisateur/master/media/Scrab.png)](https://github.com/multibao/guideutilisateur#fork-destination-box)
 
-> Bienvenue dans l'aventure multiBàO. Forker, ça fait froid au dos? ;) Cliquez sur le bouton Fork en haut à droite de votre écran et vous partirez avec un modèles de fiches tout beau, avec tout ce qu'il faut devans. 
+> Bienvenue dans l'aventure multiBàO. Forker, c'est quoi ce mot? Forker signifie "action de répliquer". Cliquez sur le bouton Fork en haut à droite de votre écran et vous partirez avec un modèles de fiches tout beau pré-préparé, avec tout ce qu'il faut devans. 
+
+
+
+
+
+
+
+
+
 
 ## Créer un dépôt de fiches, une expérience humaine avant d'être technique
 
