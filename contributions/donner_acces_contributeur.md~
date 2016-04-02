@@ -1,0 +1,6 @@
+## Donner un accès contributeur
+
+* tout contributeur autorisé sur le dépôt principal de multiBàO, c'est à dire http://github.com/multibao, peut à son tour inviter des utilisateurs en suivant le lien suivant : https://github.com/multibao/contributions/settings/collaboration
+* si vous êtes administrateur de votre dépôt, allez dans "settings" (îcone à la droite de l'écran) > puis dans "collaborators"
+
+*Invitation:* avec multiBàO, une même fiche peut être partagée entre dix associations et deux collectivités. Si la fiche est modifiée sur son dépôt github, elle est instantannément actualisée sur tous les sites qui la font apparaître. MultiBàO, c'est aussi un jeu de confiance, celui de donner un accès contributeur.

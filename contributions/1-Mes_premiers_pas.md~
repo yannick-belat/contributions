@@ -33,7 +33,7 @@ multiBàO.org possède quatre fonctionnalités phares:
 
 2. Présenter les ressources de différentes organisations
 
-> les organisations sont des regroupements d'acteurs, réunis pour gérer des ressources communes. Ces organisations créent des dépots de fiches, dans lesquels ils peuvent inviter des contributeurs, gouverner et entretenir des ressources. Sur multiBàO, différentes organisations sont représentées. Cette fonctionnalité pose la base de la gouvernance décentralisée sur multiBàO. Chaque organisation a le choix de choisir sa propre gouvernance. 
+> les organisations sont des regroupements d'acteurs, réunis pour gérer des ressources communes. Ces organisations créent des dépots de fiches, dans lesquels ils peuvent inviter des contributeurs, gouverner et entretenir des ressources. Sur multiBàO, différentes organisations sont représentées. Cette fonctionnalité pose la base de la gouvernance décentralisée sur multiBàO. Chaque organisation a le choix de choisir sa propre gouvernance.  
 
 3. Intégrer les ressources dans les sites webs
 
@@ -48,3 +48,14 @@ Pour basculer de multiBàO.org à github.com et inversement, observez le lien de
 La fiche d'accueil de multiBàO est la suivante: https://multibao.org/#multibao/contributions/blob/master/pages/accueil_et_presentation.md
 La fiche github.com correspondante est la suivante: https://github.com/multibao/contributions/blob/master/pages/accueil_et_presentation.md
 
+### Editer sur multiBàO ou éditer sur Github
+
+Sur multiBàO, nous utilisons l'éditeur prose.io. 
+Allez sur une fiche multiBàO.
+
+L'équivalent github est le bouton éditer. 
+Aller sur une fiche github et modifiez la ressource. 
+
+### Assurer l'accessibilité des ressources avec un language 
+
+Explication du Markdown. C'est facile à comprendre. 
