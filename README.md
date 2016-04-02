@@ -35,9 +35,11 @@ Je présente  |   On présente et on apprend des regards croisés
 Pour lancer un dépôt, je suis seul   |   Pour lancer un dépôt, on est au moins 2
 
 **Q**: il y a pourtant des possibilités pour un contributeur externe de contribuer à mon dépôt?
+
 **R**: Oui. Tout comme si vous êtes en organisation. Limiter les contributeurs ayant une modification totale sur votre dépôt s'avérerait peu judicieux si les contributions qu'ils apportaient ne vous sembleraient pas de qualité. A ce moment là pourquoi ne pas choisir des pairs qui vont collaborer avec vous sur des ressources? 
 
-**Q**: comment définissez vous une contribution de qualité: 
+**Q**: comment définissez vous une contribution de qualité?
+
 **R** Du point de vue du lecteur externe elle est: 
 * utile: il peut s'en servir, au minima pour pouvoir inspirer ses pratiques
 * compréhensible: il arrive à comprendre ce qui est dit dans la fiche
