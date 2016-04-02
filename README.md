@@ -8,9 +8,12 @@ Dupliquez ce modèle de dépôt de fiches pour faciliter votre première créati
 
 ## Introduction
 
-Ecrire une courte présentation qui sera affichée sur multiBàO.
+Ecrire une courte présentation qui sera affichée sur multiBàO. Nous vous invitons à minima à:
+* y mettre un message d'accueil pour les lecteurs
+* expliciter à quelle occasion ce dépôt de fiches à été créé 
+* indiquer si vous acceptez des contributeurs extérieurs à votre dépôt de fiches et si oui comment ils peuvent vous joindre pour vous proposez de contribuer (e-mail?)
 
 ## Licence
 
-Indiquez ici la licence sont publiées les fiches de votre dépôt. 
+Indiquez ici la licence sont publiées les fiches de votre dépôt.
 
