@@ -1,8 +1,12 @@
-# Dupliquez ce modèle de dépôt de fiches pour faciliter votre première création de dépôt
+# Lisez-moi
+
+## Dupliquez ce modèle de dépôt de fiches pour faciliter votre première création de dépôt
 
 [![Forker ce dépot](https://raw.githubusercontent.com/multibao/guideutilisateur/master/media/Scrab.png)](https://github.com/multibao/guideutilisateur#fork-destination-box)
 
 > Bienvenue dans l'aventure multiBàO. Forker, c'est quoi ce mot? Forker signifie "action de répliquer". Cliquez sur le bouton Fork en haut à droite de votre écran et vous partirez avec un modèles de fiches tout beau pré-préparé, avec tout ce qu'il faut devans. 
+
+> Ce dossier "Guide Utilisateur" contient des explications et des standards de rédaction permettant à des utilisateurs d'être accompagnés et guidés dans leurs contributions.
 
 ## Licence
 
@@ -70,7 +74,7 @@ Il peut y avoir des collaborateurs externes, je gouverne   |   Je collabore avec
 
 
 
-> Dossier contenant des explications et des standards de rédaction permettant à des utilisateurs d'être accompagnés et guidés dans leurs contributions.
+
 
 ## Objectif
 
