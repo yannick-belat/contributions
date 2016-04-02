@@ -25,20 +25,4 @@ prose:
           label: "Description"
           help: "en une courte phrase"
           value: ""
-      - name: "tags"
-        field:
-          element: "multiselect"
-          label: "Mots clés (max 5)"
-          placeholder: "choisir des tags"
-          options:
-            - name: "Ice breaker"
-              value: "Ice breaker"
-            - name: "Energizer"
-              value: "Energizer"
-            - name: "Organisation"
-              value: "Organisation"
-            - name: "Collaboration"
-              value: "Collaboration"
-            - name: "Citoyenneté"
-              value: "Citoyenneté"
 
