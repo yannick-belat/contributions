@@ -101,6 +101,12 @@ Le manuel d'utilisation doit être
 -------------------    
     
 ## Pourquoi cette démarche?
+
+------------
+_la contextualisation aide les usagers à comprendre votre travail. Forker ce readme.md vous aidera à écrire avec une structuration qui nous semble pertinente. Vous pourrez également modifier cette structure de rédaction selon les usages qui vous sembleront plus pertinents_
+
+------------
+
 Nous attachons de l'importance à l'amélioration de l'expérience utilisateur sur multibao.org.
 
 Nous cherchons à fournir dans de bonnes conditions les possibilités de compréhension, d'utilisation et de réutilisation, d'appropriation des ressources à chaque utlisateur.
