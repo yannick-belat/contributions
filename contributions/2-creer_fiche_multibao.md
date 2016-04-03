@@ -1,10 +1,3 @@
----
-author: ""
-description: null
-published: false
-title: Untitled
----
-
 ## C'est quoi une fiche? 
 
 
@@ -24,13 +17,12 @@ Voir [Comment faire apparaître une fiche multiBàO sur mon site](https://github
   
 Voir [connaître les bases pour enrichir des fiches](https://github.com/multibao/documentation/blob/master/fiches/enrichir_une_fiche.md)
   
-  * Essayez d'être le plus concis possible
-  * N'utilisez pas de majuscules ou de signes (é,à,ô,/,...)
+  * A lire indispensable (pour que ça fonctionne): [charte de nommage](https://github.com/multibao/modele_de_depot/blob/master/contributions/7-charte_de_nommage.md)
   
   Exemple:
   * Forum ouvert > forum_ouvert.md
-  * Pro action café > Pro_action_cafe.md
-  * Organisations en cercle pour une gouvernance partagée > organisation_en_cercle.md
+  * Pro action café > pro_actionçcafecafe.md
+  * Organisations en cercle pour une gouvernance partagée > organisation_cercle.md
   * Utilisation des revues en agilité > revues_agiles.md
   
   Dernières étapes
