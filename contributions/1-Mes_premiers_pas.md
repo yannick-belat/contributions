@@ -1,28 +1,35 @@
+---
+author: "Thomas Wolff , Xavier Coadic"
+description: Commencer sur MultiBào et comprendre la plateforme
+published: false
+title: Untitled
+---
+
 # Mes premiers pas 
 
 ## Je ne suis pas seul 
 
 Ici, vous n'êtes pas seuls.
 A minima vous êtes au moins 2 contributeurs à votre dépôt.
-Des contributeurs habitués - qui ont sûrement déjà rencontré le problème que vous rencontrez - sont joignables. 
+Des contributeurs habitués - qui ont sûrement déjà rencontré le problème qui vous bloque - sont joignables. 
 En attendant qu'il y ait un espace de discussion spécialisés sur multiBàO, vous pouvez:
 * écrire un mail à [Thomas](mailto:thomas.wolff@cpcoop.fr) ou un sms (06-42-45-97-81)
-* si un échange ne suffit pas, on programmera une visioconférence où l'on réalisera ensemble la solution
+* si un échange ne suffit pas, nous programmerons une visioconférence où nous réaliserons ensemble la solution
 
 ## L'environnement technologique de multiBàO
 
 Nul besoin d'être habitué au numérique pour contribuer sur multiBàO.
-C'est justement l'occasion d'apprendre.
+C'est une occasion d'apprendre au sein d'une communauté collaborative. 
 
 ### Le double environnement: multibao.org et github.com
 
-Peut être consultez vous cette fiche sur github.com, peut être la consultez vous sur multibao.org.
+Peut être consultez-vous cette fiche sur github.com, peut être la consultez vous sur multibao.org. Les deux options sont possibles pour décentralisée les ressources et rendre accessible ces mêmes à différents usages.
 multiBàO.org est une multi Boîte à Outils connectée à github.com.
 
 > Sur multiBàO.org, vous êtes dans le monde de l'animation. Sur github.com, dans le monde numérique. Vous pouvez choisir votre regard.
 
-Github.com est un site d'hébergement utilisé par les développeurs webs et journalistes pour y héberger des ressources numériques.
-* il a comme particularité d'offrir de nombreuses fonctionnalités collaboratives - comme le fork qui vous a été présenté sur le Readme
+Github.com est un site d'hébergement utilisé par les développeurs web et journalistes pour y héberger des ressources numériques.
+* il a comme particularité d'offrir de nombreuses fonctionnalités collaboratives - comme le fork qui vous a été présenté sur le Readme de ce "Modèle de dépot"
 * il propose un hébergement gratuit pour les projets dont les ressources numériques sont libres, c'est à dire réutilisables par d'autres utilisateurs
 
 multiBàO.org possède quatre fonctionnalités phares: 
@@ -48,3 +55,4 @@ Pour basculer de multiBàO.org à github.com et inversement, observez le lien de
 La fiche d'accueil de multiBàO est la suivante: https://multibao.org/#multibao/contributions/blob/master/pages/accueil_et_presentation.md
 La fiche github.com correspondante est la suivante: https://github.com/multibao/contributions/blob/master/pages/accueil_et_presentation.md
 
+Nous détournons l'usage habituel de la plateforme Github.com pour un usage d’écriture rédactionnelle afin de permettre le dépôt et le partage de ressources le plus facilement possible autour des pratiques collaboratives
