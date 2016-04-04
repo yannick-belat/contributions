@@ -5,8 +5,10 @@ published: false
 title: Untitled
 ---
 
-## C'est quoi une fiche? 
 
+## C'est quoi une fiche? 
+Une feuille numérique sur laquelle on écrits des titres, des textes, des ouvrages que l'on veut cataloguer, classer, référencer. On les classe souvent alphabétiquement ou par odre chronologique dans des boîtes.
+On y recourt pour trouver des volumes dans la bibliothèque. On s’en sert aussi pour préparer des tables de matières.
 
 ## Comment créer une fiche ? 
 
