@@ -1,9 +1,10 @@
 ---
-author: "Thomas Wolff , Xavier Coadic"
-description: Commencer sur MultiBào et comprendre la plateforme
+author: "Thomas Wolff, Xavier Coadic, Louise Berrotte"
+description: Ecrire sa première ressource sur multiBàO en 2 minutes. Un tutoriel simple et visuel.
 published: false
-title: Untitled
+title: Ma première fiche sur multiBàO
 ---
+
 
 # Mes premiers pas 
 
