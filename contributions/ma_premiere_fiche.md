@@ -2,7 +2,7 @@
 
 C'est parti. 
 Si j'ai la moindre question, je peux consulter le [guide d'utilisation](https://github.com/multibao/documentation).
-J'écris ma fiche. Des contributeurs ont rédigé quelques invitations pour que ma fiche puisse être [utile]http://www.multibao.org/multibao/documentation/fiches/fiches_utiles.md) et [agréable](http://www.multibao.org/multibao/documentation/fiches/fiches_agreables.md) pour un lecteur. 
+J'écris ma fiche. Des contributeurs ont rédigé quelques invitations pour que ma fiche puisse être [utile](http://www.multibao.org/multibao/documentation/fiches/fiches_utiles.md) et [agréable](http://www.multibao.org/multibao/documentation/fiches/fiches_agreables.md) pour un lecteur. 
 
 Nous - les surf-riders de multiBO - on vous a préparé cette première fiche pour vos présenter quelques unes de nos planches de surf préférées pour aller rider du côté de Pornic. 
 
