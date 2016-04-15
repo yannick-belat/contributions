@@ -20,5 +20,5 @@ N'hésitez pas à mettre un lien vers votre site web.
 ## Licence
 
 Indiquez ici la licence sous laquelle est publiée votre dépôt de fiches. 
-Lire **[Comment choisir une licence libre ou comment faire pour que mes fiches soient réutilisables](http://www.multibao.org/multibao/documentation/fiches/fiches_reutilisables.md**. 
+Lire **[Comment choisir une licence libre ou comment faire pour que mes fiches soient réutilisables](http://www.multibao.org/multibao/documentation/fiches/fiches_reutilisables.md)**. 
 
